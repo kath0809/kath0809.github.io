@@ -1,6 +1,3 @@
-/*
 export default {
-    base: "/<your repo name>",
+  base: "/kath0809.github.io",
 };
-
- */
