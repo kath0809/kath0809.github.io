@@ -1,3 +1,3 @@
 export default {
-  base: "/kath0809.github.io",
+  base: "/kath0809.github.io/",
 };
