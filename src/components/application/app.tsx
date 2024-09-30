@@ -10,7 +10,7 @@ export function App() {
         <p>This is a simple homepage created with React and TypeScript.</p>
       </main>
       <footer>
-        <p>&copy; 2023 My Portfolio</p>
+        <p>&copy; 2024 My Portfolio</p>
       </footer>
     </div>
   );
